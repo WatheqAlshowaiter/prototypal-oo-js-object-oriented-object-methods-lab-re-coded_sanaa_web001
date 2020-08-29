@@ -14,12 +14,12 @@ veto(){
 
 // - `approve` — returns `You can do that!`
 approve(){
-  returns `You can do that!`
+  return `You can do that!`
 }
 
 // - `doCharity` — returns `I like to help people.`
 doCharity(){
-  returns `I like to help people`;
+  return `I like to help people`;
 }
 
 // - `releasePressStatement` — returns `You will see great things from Scuber.`
